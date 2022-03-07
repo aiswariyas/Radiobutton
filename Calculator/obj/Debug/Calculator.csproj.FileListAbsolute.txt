@@ -1,0 +1,11 @@
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.csproj.SuggestedBindingRedirects.cache
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\aishwariya_c#\Calculator\bin\Debug\Calculator.exe.config
+E:\aishwariya_c#\Calculator\bin\Debug\Calculator.exe
+E:\aishwariya_c#\Calculator\bin\Debug\Calculator.pdb
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.exe
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.pdb
+E:\aishwariya_c#\Calculator\obj\Debug\Calculator.Calculator.resources
